@@ -1,4 +1,4 @@
-# Hi, I'm Apu 👋
+# Hi, I'm AziM 👋
 
 🇧🇩 Bangladesh | 💼 Banker | 🛠️ Builder | 🌐 Open Source
 
@@ -37,12 +37,6 @@ Some of the tools in my homelab:
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?logo=adguard&logoColor=white)
 
 `Actual Budget` · `Immich` · `Navidrome` · `Vaultwarden` · `Paperless-ngx`
-
-## 📊 GitHub
-
-![Apu's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimul-kabir&show_icons=true&hide_border=true&theme=transparent&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azimul-kabir&layout=compact&hide_border=true&theme=transparent)
 
 ---
 

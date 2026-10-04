@@ -10,6 +10,12 @@ My interests sit at the intersection of **personal finance, Android, self-hostin
 
 - 📱 **[Actua](https://github.com/azimul-kabir/actua)** — A native Android client for Actual Budget
 - 🎵 **[Harmony](https://github.com/azimul-kabir/harmony)** — A self-hosted music management platform for building, organizing, and syncing your music library
+- 📦 **Inventory Management** *(private, in active development)* — A self-hosted inventory and back-office system for small trading businesses, with an immutable stock ledger, weighted-average costing, credit sales and purchases, customer and supplier balances, and reports. Built with Django, PostgreSQL, HTMX, and Docker Compose, and designed to run fully offline on a home server or NAS
+- 🌐 **[Actua Website](https://github.com/azimul-kabir/actua-website)** — The website for Actua
+
+## 🤝 Open Source Contributions
+
+- 💰 **[MattFaz/actuali](https://github.com/MattFaz/actuali)** — Contributor
 
 ## 🛠️ Tech & Tools
 

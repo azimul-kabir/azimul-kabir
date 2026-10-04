@@ -19,7 +19,7 @@ My interests sit at the intersection of **personal finance, Android, self-hostin
 
 ## 🤝 Open Source Contributions
 
-- 💰 **[Actuali](https://github.com/MattFaz/actuali)** — Contributor
+- 💰 **[Actuali](https://github.com/MattFaz/actuali)** — A native iOS companion app for Actual Budget (contributor)
 
 ## 🛠️ Tech & Tools
 

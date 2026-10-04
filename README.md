@@ -19,7 +19,7 @@ My interests sit at the intersection of **personal finance, Android, self-hostin
 
 ## 🤝 Open Source Contributions
 
-- 💰 **[MattFaz/actuali](https://github.com/MattFaz/actuali)** — Contributor
+- 💰 **[Actuali](https://github.com/MattFaz/actuali)** — Contributor
 
 ## 🛠️ Tech & Tools
 

@@ -6,12 +6,16 @@ I work in banking and finance and build open-source software in my spare time.
 
 My interests sit at the intersection of **personal finance, Android, self-hosting, automation, and home-server software**. I enjoy turning tools I use myself into polished open-source projects.
 
+## 🌍 Website
+
+- 🏠 **[azimul.pages.dev](https://azimul.pages.dev)** — My personal website ([source](https://github.com/azimul-kabir/azimul-website))
+
 ## 🔗 Main Projects
 
 - 📱 **[Actua](https://github.com/azimul-kabir/actua)** — A native Android client for Actual Budget
 - 🎵 **[Harmony](https://github.com/azimul-kabir/harmony)** — A self-hosted music management platform for building, organizing, and syncing your music library
 - 📦 **Inventory Management** *(private, in active development)* — A self-hosted inventory and back-office system for small trading businesses, with an immutable stock ledger, weighted-average costing, credit sales and purchases, customer and supplier balances, and reports. Built with Django, PostgreSQL, HTMX, and Docker Compose, and designed to run fully offline on a home server or NAS
-- 🌐 **[Actua Website](https://github.com/azimul-kabir/actua-website)** — The website for Actua
+- 🌐 **[Actua Website](https://actua.pages.dev)** — The website for Actua ([source](https://github.com/azimul-kabir/actua-website))
 
 ## 🤝 Open Source Contributions
 

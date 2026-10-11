@@ -8,7 +8,7 @@ My interests sit at the intersection of **personal finance, Android, self-hostin
 
 ## 🌍 Website
 
-- 🏠 **[azimul.pages.dev](https://azimul.pages.dev)** — My personal website ([source](https://github.com/azimul-kabir/azimul-website))
+- 🏠 **[www.azimulkabir.com](https://azimulkabir.com)** — My personal website ([source](https://github.com/azimul-kabir/azimul-website))
 
 ## 🔗 Main Projects
 
@@ -16,7 +16,7 @@ My interests sit at the intersection of **personal finance, Android, self-hostin
 - 🎵 **[Harmony](https://github.com/azimul-kabir/harmony)** — A self-hosted music management platform for building, organizing, and syncing your music library
 - 📦 **Inventory Management** *(private, in active development)* — A self-hosted inventory and back-office system for small trading businesses, with an immutable stock ledger, weighted-average costing, credit sales and purchases, customer and supplier balances, and reports. Built with Django, PostgreSQL, HTMX, and Docker Compose, and designed to run fully offline on a home server or NAS
 - 📊 **Portfolio Pulse — Credit MIS** *(private)* — An offline management MIS dashboard for credit portfolio reporting: monthly Excel uploads with validation, funded and non-funded exposure, classified and default tracking, and automatic month-on-month and quarter-end comparisons. Runs on a Windows PC or Synology NAS and keeps only processed snapshots, never the raw workbooks
-- 🌐 **[Actua Website](https://actua.pages.dev)** — The website for Actua ([source](https://github.com/azimul-kabir/actua-website))
+- 🌐 **[Actua Website](https://actua.azimulkabir.com)** — The website for Actua ([source](https://github.com/azimul-kabir/actua-website))
 
 ## 🤝 Open Source Contributions
 

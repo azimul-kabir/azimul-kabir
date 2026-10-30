@@ -38,6 +38,18 @@ I work in banking and finance and build open-source software and tools in my spa
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ <a href="https://sotorko.azimulkabir.com">Sotorko (সতর্ক)</a></h3>
+      <p><strong>Android app that helps people spot mobile-money scams</strong></p>
+      <p>An Android app that helps people in Bangladesh recognize mobile-money scams (bKash, Nagad and similar) before they lose money. Check a suspicious message, get guidance and hotlines if you've been scammed, and set up a family guardian. Bangla by default, with English too.</p>
+      <p>
+        <a href="https://sotorko.azimulkabir.com"><img src="https://img.shields.io/badge/Website-sotorko.azimulkabir.com-D32F2F?style=flat-square" alt="Website"></a>
+        <a href="https://github.com/azimul-kabir/sotorko-website"><img src="https://img.shields.io/badge/Website_Source-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ More Open Source Tools

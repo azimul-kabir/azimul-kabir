@@ -12,7 +12,7 @@ I work in banking and finance and build open-source software and tools in my spa
 
 ---
 
-## 🚀 Featured Open Source Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -47,6 +47,19 @@ I work in banking and finance and build open-source software and tools in my spa
         <a href="https://sotorko.azimulkabir.com"><img src="https://img.shields.io/badge/Website-sotorko.azimulkabir.com-D32F2F?style=flat-square" alt="Website"></a>
         <a href="https://github.com/azimul-kabir/sotorko-website"><img src="https://img.shields.io/badge/Website_Source-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧾 <a href="https://kor.azimulkabir.com">Kor (কর)</a></h3>
+      <p><strong>Offline Android app for Bangladesh personal income tax</strong></p>
+      <p>Record income, investments and tax paid through the year, see what you owe and how much more you can invest for the rebate before 30 June, and get your wealth statement (IT-10B) ready for the e-return. English with Bangla as an option, and your figures never leave the phone. In development, not released yet.</p>
+      <p>
+        <a href="https://kor.azimulkabir.com"><img src="https://img.shields.io/badge/Website-kor.azimulkabir.com-006A4E?style=flat-square" alt="Website"></a>
+        <img src="https://img.shields.io/badge/Status-Coming_soon-F59E0B?style=flat-square" alt="Coming soon">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Works-Offline-555555?style=flat-square" alt="Works offline">
       </p>
     </td>
   </tr>
